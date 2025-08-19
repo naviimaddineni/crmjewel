@@ -1,4 +1,3 @@
-## Salesforce Developer Capstone Project
 
 # CRM Application for Jewel Maintainance: Project Documentation
 
@@ -184,6 +183,11 @@ A custom page layout enhances the user experience for different item types.
 
 - **Report Creation**: Users can create custom reports by navigating to the Reports tab.
 - **UI Customization**: `Reports` and `Dashboards` tabs are added to app navigation.
+
+
+
+## ERD <img width="1164" height="631" alt="ERD_Salesforce" src="https://github.com/user-attachments/assets/f2441f61-d005-4679-9ee2-34e60095f5b0" />
+
 
 ## Conclusion
 
