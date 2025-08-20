@@ -1,5 +1,6 @@
 
-# CRM Application for Jewel Maintainance: Project Documentation
+# Salesforce Capstone Project
+# CRM Application for Jewel Management : Project Documentation
 
 [Watch Demo Video](https://drive.google.com/file/d/1Q83hncz8eUlS61A83Ui15aPf71xsBgKV/view?usp=drive_link)
 
@@ -107,7 +108,6 @@ Custom fields are added to each object to capture detailed information.
 
 ### 4.3. Item Fields
 
-*(Add table as needed, following your format above for all the fields and formulas.)*
 
 ### 4.4. Customer Order Fields
 
@@ -116,8 +116,6 @@ Custom fields are added to each object to capture detailed information.
 | Order Status| Picklist  | Values: Started, On Hold, Completed...|
 
 ### 4.5. Billing Fields
-
-*(Add table as needed, following your format above.)*
 
 ## 5. UI Control and Data Validation
 
